@@ -30,3 +30,19 @@ After doing this, you may fix the identity used for this commit with:
  1 file changed, 16 insertions(+)
  create mode 100644 out.log
 fatal: unable to access 'https://github.com/capacstefan/Linux.git/': Could not resolve host: github.com
+[master 9f4fe4b] Log marți 7 ianuarie 2025, 02:30:57 +0200
+ Committer: a <a@Ubuntu.myguest.virtualbox.org>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+), 1 deletion(-)
+fatal: unable to access 'https://github.com/capacstefan/Linux.git/': Could not resolve host: github.com
