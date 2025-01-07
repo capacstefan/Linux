@@ -46,3 +46,21 @@ After doing this, you may fix the identity used for this commit with:
 
  1 file changed, 17 insertions(+), 1 deletion(-)
 fatal: unable to access 'https://github.com/capacstefan/Linux.git/': Could not resolve host: github.com
+[master 6017392] Log marți 7 ianuarie 2025, 02:31:39 +0200
+ Committer: a <a@Ubuntu.myguest.virtualbox.org>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 16 insertions(+)
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/capacstefan/Linux.git/'
