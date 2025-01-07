@@ -135,3 +135,23 @@ Debug activat
 + break
 + '[' '!' -d .git ']'
 + git add out.log
+++ date
++ git commit -m 'Log marți 7 ianuarie 2025, 02:43:15 +0200'
+[master 6f2df35] Log marți 7 ianuarie 2025, 02:43:15 +0200
+ Committer: a <a@Ubuntu.myguest.virtualbox.org>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 36 insertions(+)
++ git push -u origin master
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/capacstefan/Linux.git/'
