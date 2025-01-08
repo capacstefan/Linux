@@ -1959,3 +1959,12 @@ Ultima modificare: 2025-01-07
 Numar linii: 106
 Size: 1848 bytes
 --------------------------------------------
+[master 68fe570] Log miercuri 8 ianuarie 2025, 15:31:49 +0200
+ 1 file changed, 793 insertions(+)
+To https://github.com/capacstefan/Linux.git
+   18ba150..68fe570  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+Format invalid data
+Fisierele modificate in ultimele  zile:
+--------------------------------------------
+find: invalid argument `-' to `-mtime'
