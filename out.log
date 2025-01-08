@@ -2148,3 +2148,23 @@ Manual utilizare aplicatie ./backup
 To https://github.com/capacstefan/Linux.git
    0ea5fad..0139a9a  master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 9b1f7fb] Log miercuri 8 ianuarie 2025, 16:37:52 +0200
+ 1 file changed, 5 insertions(+)
+To https://github.com/capacstefan/Linux.git
+   0139a9a..9b1f7fb  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+Manual utilizare aplicatie ./backup
+-----------------------------------
+
+-f, --find <path> <data>                 Cauta in <path> fisiere mai vechi de <data>, se poate folosi formatul YYYY-MM-DD sau unul explicit ex: 1zi/12zile/1saptamana/2saptamani/1luna/10luni
+-d, --delete <path> <criteriu> <val>     Sterge fisierele din <path> dupa unul din criteriile old/size/name urmate de o valoare ce reprezinta data format normal sau explicit, numarul de biti ( ex: 2300B, 34KB, 5MB) sau un sir de caractere
+-m, --move <path> <dest> <mode> 	       Muta fisierele din <path> in <dest> in mod local/cloud
+-r, --rename <path> <mode> <val>         Redenumeste fisierele din <path> avand modurile old/size urmate de o valoare ce reprezinta o data in format normal sau explicit sau o dimensiune ( ex: 2300B, 34KB, 5MB)
+-e, --edit <path> <mode>                 Editeaza fisierele din <path> in modul phone/mail adaugang prefixul [PHONE]/[MAIL] inaintea liniilor care contin un astfel de sir de caractere
+-c, --compress <path> <data>             Comprima fisierele din <path> mai vechi de <data> in format normal sau explicit
+-s, --sorts <path>                       Sorteaza in directoare separate fisierele din <path> in functie de extensia acestora
+-g, --generate <path> <zile>             Genereaza un raport asupra fisierelor din <path> create/modificate in urma cu mai putin de x zile
+-b, --backup <path>                      Creaza o copie de siguranta pentru fisierele din <path>
+-t, --trash <path> <zile>                Sterge periodic in fundal fisierele din <path> mai vechi de x zile
+-x, --xlist <path> <word>                Muta in xlist fisierele din <path> care contin cuvantul interzis <word> si le marcheaza printr-o extensie .xlisted
+--debug                                  Schimba valoarea de bug on/of
