@@ -391,3 +391,778 @@ Format invalid data
 Fisierele modificate in ultimele  zile:
 --------------------------------------------
 find: invalid argument `-' to `-mtime'
+[master faf282e] Log miercuri 8 ianuarie 2025, 15:29:54 +0200
+ Committer: a <a@Ubuntu.myguest.virtualbox.org>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 21 insertions(+)
+To https://github.com/capacstefan/Linux.git
+   df95f27..faf282e  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+Fisierele modificate in ultimele 10 zile:
+--------------------------------------------
+Fisier: out.log
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 412
+Size: 23810 bytes
+--------------------------------------------
+Fisier: exclude
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 6
+Size: 240 bytes
+--------------------------------------------
+Fisier: index
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 2
+Size: 137 bytes
+--------------------------------------------
+Fisier: description
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 1
+Size: 73 bytes
+--------------------------------------------
+Fisier: COMMIT_EDITMSG.save
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 15
+Size: 341 bytes
+--------------------------------------------
+Fisier: 3989c9e4c6befd801cfdcc63c848cdb8d9244e
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 2
+Size: 188 bytes
+--------------------------------------------
+Fisier: 4c7a8d1ee99647d2f4ac1b31014574377f5f3b
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 184 bytes
+--------------------------------------------
+Fisier: 4fe4b3d1ef231706add88f99470d4670b1c888
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 1
+Size: 188 bytes
+--------------------------------------------
+Fisier: 0c1b4322b833ace37629b0e3b069c00af44325
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 11
+Size: 1855 bytes
+--------------------------------------------
+Fisier: 1c8e30be782b68be5e62571a7a8cd08dd7fefb
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: de17d20c857a970341167d248e58202a68a152
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 16
+Size: 3145 bytes
+--------------------------------------------
+Fisier: 1f50cd14adaea94c4f240123e247c7f8ec8fec
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: c76dc14e4b84af944a6c39aa60d96423b50071
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 188 bytes
+--------------------------------------------
+Fisier: 6b47284eb7d258929dda6d9c0d6b85502aa7f2
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: 6439725cc9ed5dd4b0eae9f4f7a82e8d38ef86
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: fda481c95380d97009808d6bdf3db00611518a
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 51 bytes
+--------------------------------------------
+Fisier: 4b16a7e75933fa7731b7a0fe57933aa4467960
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 1
+Size: 416 bytes
+--------------------------------------------
+Fisier: 95392c69af6de3bfb10f8f791316868f250f0b
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: 95f271495ffb44e5a18fc47a124293b038aec0
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 186 bytes
+--------------------------------------------
+Fisier: 5177171c8d340f95898169b0f089d4dea4ed87
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 154 bytes
+--------------------------------------------
+Fisier: 7d8e219540e36ef7fb3b0030dbefa5a697cb20
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 2
+Size: 185 bytes
+--------------------------------------------
+Fisier: 0fc47c35997387824f39d02cceb11360fda8e7
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 13
+Size: 1810 bytes
+--------------------------------------------
+Fisier: 2df35fd919ecf3375f9f2e184536061730995c
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 188 bytes
+--------------------------------------------
+Fisier: 9ce98aef28cc730f44b6f56052542c9075afae
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 7
+Size: 2085 bytes
+--------------------------------------------
+Fisier: 809dbd78f94c55cf385c7cbb75627ba1b173b3
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 9
+Size: 3699 bytes
+--------------------------------------------
+Fisier: ab09418ba2a9f73234a6486b01fb70b38af9ff
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: 896f8ca858d2e180edf70750ded6f5f719e276
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 10
+Size: 2114 bytes
+--------------------------------------------
+Fisier: 54687c45c51678765767b75da08afbcbac6f80
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 184 bytes
+--------------------------------------------
+Fisier: 34f132c433e34f7d46fe85f722ec8946c2a9e8
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 15
+Size: 3517 bytes
+--------------------------------------------
+Fisier: 10782aa68999ee23ff79ab0e3cbe21b1eb848e
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: 1823399deaa2a5a9f5a6b396103cb0a04c3f2f
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: b34a09b15278a98fcba3d380ac321a44a28f5f
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: 543b5d5e2c2762f5458e8fa9dd3adbe42e1f1e
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: 9fa2f09c6088b09e0be4844cb5fb7e7fb0fd5c
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 7
+Size: 1433 bytes
+--------------------------------------------
+Fisier: 4d72c05bf60c75b749291fcb3239a502f6b18f
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 19
+Size: 3224 bytes
+--------------------------------------------
+Fisier: f282efb527a94c427673a7d28008b5207bd37c
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 186 bytes
+--------------------------------------------
+Fisier: 64caa06b366cbbb1e22ec609e9d15af2baa019
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 1
+Size: 52 bytes
+--------------------------------------------
+Fisier: f32a0307cca80139105deefc01d3748c66d077
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 184 bytes
+--------------------------------------------
+Fisier: 37d8ec639381d257d7bf4cb31efca088106411
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 13
+Size: 3735 bytes
+--------------------------------------------
+Fisier: ecf7a2554b5e38cdb99dd7eb569bc838bca295
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: 37d0b8dd9e4dd38cc68c147351e7c0b65a56cf
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 185 bytes
+--------------------------------------------
+Fisier: e6323aec340d961fe080d80381c2e1ed7b7ffb
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 51 bytes
+--------------------------------------------
+Fisier: 3a9b12f32a64b48e3950df26d4e311db9fcab5
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: 842fffbc56039f7a0f2278fde3c8ed51230c74
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 11
+Size: 2343 bytes
+--------------------------------------------
+Fisier: 1fe3c9bf42e2fe5adb6d4294109b6396666fcb
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 16
+Size: 3629 bytes
+--------------------------------------------
+Fisier: 322238151860aea2bd38fc7b124800a1f59c6f
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 16
+Size: 3552 bytes
+--------------------------------------------
+Fisier: ba1ab5f328188622206265a5a2b09bd411f8e3
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 14
+Size: 3412 bytes
+--------------------------------------------
+Fisier: 954ba60c3ad1437e1a37fcedda9fa7004eac0b
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 184 bytes
+--------------------------------------------
+Fisier: acbe20af23bc01e847ff6ed8cf25370aafafa5
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 2
+Size: 185 bytes
+--------------------------------------------
+Fisier: 27d02aef5326236c30fbb4a361dc7aa9c5a8c0
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 14
+Size: 2275 bytes
+--------------------------------------------
+Fisier: 58034cc70e4825183f7db742838d695cd9ab54
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 1
+Size: 185 bytes
+--------------------------------------------
+Fisier: 17392599c3b62b72b17c2b7b229bb70bd97359
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 188 bytes
+--------------------------------------------
+Fisier: a9af74be875837622caa0cd4676c974cb6cbeb
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 15
+Size: 3667 bytes
+--------------------------------------------
+Fisier: 1961c542623e6c647ca8041024d2c35f4a4603
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 7
+Size: 2041 bytes
+--------------------------------------------
+Fisier: 2f6839013e8fb79f214ca8caef0a18edbe18aa
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: 36b10d47eafc4f3e6b00907d4f4389de5e27e1
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: 7cd4b2cce988f8caa06b5033fa24c0b10b87c0
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 15
+Size: 3778 bytes
+--------------------------------------------
+Fisier: 27843ebaed53ec455aa7d3946889a31cab4e13
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 1
+Size: 188 bytes
+--------------------------------------------
+Fisier: 4d0c8bb885f2d239fb294184859e5fd7d0296d
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: efabc0e936c614555c8f218297390ffebaf6ef
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 52 bytes
+--------------------------------------------
+Fisier: 12b788e29465d5dde0e599990b939394a7ebab
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 1
+Size: 189 bytes
+--------------------------------------------
+Fisier: HEAD
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 18
+Size: 3378 bytes
+--------------------------------------------
+Fisier: master
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 9
+Size: 1350 bytes
+--------------------------------------------
+Fisier: master
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 18
+Size: 3378 bytes
+--------------------------------------------
+Fisier: config
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 11
+Size: 265 bytes
+--------------------------------------------
+Fisier: COMMIT_EDITMSG
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 1
+Size: 45 bytes
+--------------------------------------------
+Fisier: HEAD
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 1
+Size: 23 bytes
+--------------------------------------------
+Fisier: post-update.sample
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 8
+Size: 189 bytes
+--------------------------------------------
+Fisier: applypatch-msg.sample
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 15
+Size: 478 bytes
+--------------------------------------------
+Fisier: prepare-commit-msg.sample
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 42
+Size: 1492 bytes
+--------------------------------------------
+Fisier: pre-push.sample
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 53
+Size: 1374 bytes
+--------------------------------------------
+Fisier: fsmonitor-watchman.sample
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 173
+Size: 4655 bytes
+--------------------------------------------
+Fisier: push-to-checkout.sample
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 78
+Size: 2783 bytes
+--------------------------------------------
+Fisier: pre-merge-commit.sample
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 13
+Size: 416 bytes
+--------------------------------------------
+Fisier: pre-applypatch.sample
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 14
+Size: 424 bytes
+--------------------------------------------
+Fisier: pre-commit.sample
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 49
+Size: 1643 bytes
+--------------------------------------------
+Fisier: commit-msg.sample
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 24
+Size: 896 bytes
+--------------------------------------------
+Fisier: update.sample
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 128
+Size: 3650 bytes
+--------------------------------------------
+Fisier: pre-receive.sample
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 24
+Size: 544 bytes
+--------------------------------------------
+Fisier: pre-rebase.sample
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 169
+Size: 4898 bytes
+--------------------------------------------
+Fisier: master
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 1
+Size: 41 bytes
+--------------------------------------------
+Fisier: master
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 1
+Size: 41 bytes
+--------------------------------------------
+Fisier: ana.xlisted
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 1
+Size: 4 bytes
+--------------------------------------------
+Fisier: exclude
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 6
+Size: 240 bytes
+--------------------------------------------
+Fisier: description
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 1
+Size: 73 bytes
+--------------------------------------------
+Fisier: config
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 8
+Size: 203 bytes
+--------------------------------------------
+Fisier: HEAD
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 1
+Size: 23 bytes
+--------------------------------------------
+Fisier: post-update.sample
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 8
+Size: 189 bytes
+--------------------------------------------
+Fisier: applypatch-msg.sample
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 15
+Size: 478 bytes
+--------------------------------------------
+Fisier: prepare-commit-msg.sample
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 42
+Size: 1492 bytes
+--------------------------------------------
+Fisier: pre-push.sample
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 53
+Size: 1374 bytes
+--------------------------------------------
+Fisier: fsmonitor-watchman.sample
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 173
+Size: 4655 bytes
+--------------------------------------------
+Fisier: push-to-checkout.sample
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 78
+Size: 2783 bytes
+--------------------------------------------
+Fisier: pre-merge-commit.sample
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 13
+Size: 416 bytes
+--------------------------------------------
+Fisier: pre-applypatch.sample
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 14
+Size: 424 bytes
+--------------------------------------------
+Fisier: pre-commit.sample
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 49
+Size: 1643 bytes
+--------------------------------------------
+Fisier: commit-msg.sample
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 24
+Size: 896 bytes
+--------------------------------------------
+Fisier: update.sample
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 128
+Size: 3650 bytes
+--------------------------------------------
+Fisier: pre-receive.sample
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 24
+Size: 544 bytes
+--------------------------------------------
+Fisier: pre-rebase.sample
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 169
+Size: 4898 bytes
+--------------------------------------------
+Fisier: .move.sh.swp
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 1024 bytes
+--------------------------------------------
+Fisier: .trash.sh.swp
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 1024 bytes
+--------------------------------------------
+Fisier: generate.sh
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 70
+Size: 1963 bytes
+--------------------------------------------
+Fisier: rename.sh
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 82
+Size: 2337 bytes
+--------------------------------------------
+Fisier: .find.sh.swp
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 1024 bytes
+--------------------------------------------
+Fisier: .rename.sh.swp
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 1024 bytes
+--------------------------------------------
+Fisier: .sorts.sh.swp
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 1024 bytes
+--------------------------------------------
+Fisier: .generate.sh.swp
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 1024 bytes
+--------------------------------------------
+Fisier: .compress.sh.swp
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 1024 bytes
+--------------------------------------------
+Fisier: sorts.sh
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 31
+Size: 443 bytes
+--------------------------------------------
+Fisier: xlist.sh
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 24
+Size: 436 bytes
+--------------------------------------------
+Fisier: .xlist.sh.swp
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 1024 bytes
+--------------------------------------------
+Fisier: find.sh
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 60
+Size: 1529 bytes
+--------------------------------------------
+Fisier: .backups.sh.swp
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 1024 bytes
+--------------------------------------------
+Fisier: .help.sh.swp
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 1024 bytes
+--------------------------------------------
+Fisier: help.sh
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 17
+Size: 1927 bytes
+--------------------------------------------
+Fisier: delete.sh
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 84
+Size: 1963 bytes
+--------------------------------------------
+Fisier: edit.sh
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 32
+Size: 531 bytes
+--------------------------------------------
+Fisier: trash.sh
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 24
+Size: 536 bytes
+--------------------------------------------
+Fisier: compress.sh
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 49
+Size: 1417 bytes
+--------------------------------------------
+Fisier: .delete.sh.swp
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 1024 bytes
+--------------------------------------------
+Fisier: .edit.sh.swp
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 1024 bytes
+--------------------------------------------
+Fisier: move.sh
+Creat de userul: a
+Ultima modificare: 2025-01-06
+Numar linii: 47
+Size: 684 bytes
+--------------------------------------------
+Fisier: backups.sh
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 18
+Size: 282 bytes
+--------------------------------------------
+Fisier: .backup.sh.swp
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 1024 bytes
+--------------------------------------------
+Fisier: backup.sh
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 106
+Size: 1848 bytes
+--------------------------------------------
