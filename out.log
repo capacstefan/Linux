@@ -1977,3 +1977,169 @@ Format invalid data
 Fisierele modificate in ultimele  zile:
 --------------------------------------------
 find: invalid argument `-' to `-mtime'
+[master 0ea5fad] Log miercuri 8 ianuarie 2025, 16:24:13 +0200
+ 1 file changed, 9 insertions(+)
+To https://github.com/capacstefan/Linux.git
+   2ee5a6d..0ea5fad  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+Fisierele modificate in ultimele 10 zile:
+--------------------------------------------
+Fisier: .lesshst
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 1
+Size: 20 bytes
+--------------------------------------------
+Fisier: home
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 5
+Size: 2012 bytes
+--------------------------------------------
+Fisier: root
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 64 bytes
+--------------------------------------------
+Fisier: home-b6a0b2ea.log
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 32768 bytes
+--------------------------------------------
+Fisier: root-c230a0b0.log
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 0
+Size: 32768 bytes
+--------------------------------------------
+Fisier: contacts.db
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 19
+Size: 86016 bytes
+--------------------------------------------
+Fisier: of.trashinfo
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 3
+Size: 75 bytes
+--------------------------------------------
+Fisier: backup_2025-01-07_005846.tar.gz.trashinfo
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 3
+Size: 108 bytes
+--------------------------------------------
+Fisier: a.trashinfo
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 3
+Size: 71 bytes
+--------------------------------------------
+Fisier: backup_2025-01-07_012013.tar.gz.trashinfo
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 3
+Size: 108 bytes
+--------------------------------------------
+Fisier: backup_2025-01-07_012014.tar.gz.trashinfo
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 3
+Size: 108 bytes
+--------------------------------------------
+Fisier: backup_2025-01-07_005722.tar.gz.trashinfo
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 3
+Size: 108 bytes
+--------------------------------------------
+Fisier: backup_2025-01-07_005633.tar.gz.trashinfo
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 3
+Size: 101 bytes
+--------------------------------------------
+Fisier: backup_2025-01-07_005824.tar.gz.trashinfo
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 3
+Size: 108 bytes
+--------------------------------------------
+Fisier: backup_2025-01-07_012014.tar.gz
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 103
+Size: 25560 bytes
+--------------------------------------------
+Fisier: backup_2025-01-07_005633.tar.gz
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 137 bytes
+--------------------------------------------
+Fisier: backup_2025-01-07_005846.tar.gz
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 105
+Size: 25608 bytes
+--------------------------------------------
+Fisier: backup_2025-01-07_012013.tar.gz
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 61
+Size: 12224 bytes
+--------------------------------------------
+Fisier: backup_2025-01-07_005824.tar.gz
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 43
+Size: 12306 bytes
+--------------------------------------------
+Fisier: backup_2025-01-07_005722.tar.gz
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 137 bytes
+--------------------------------------------
+Fisier: a
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 0
+Size: 0 bytes
+--------------------------------------------
+Fisier: recently-used.xbel
+Creat de userul: a
+Ultima modificare: 2025-01-07
+Numar linii: 277
+Size: 15546 bytes
+--------------------------------------------
+Fisier: login.keyring
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 8
+Size: 1081 bytes
+--------------------------------------------
+Fisier: application_state
+Creat de userul: a
+Ultima modificare: 2025-01-08
+Numar linii: 11
+Size: 579 bytes
+--------------------------------------------
+Manual utilizare aplicatie ./backup
+-----------------------------------
+
+-f, --find <path> <data>                 Cauta in <path> fisiere mai vechi de <data>, se poate folosi formatul YYYY-MM-DD sau unul explicit ex: 1zi/12zile/1saptamana/2saptamani/1luna/10luni
+-d, --delete <path> <criteriu> <val>     Sterge fisierele din <path> dupa unul din criteriile old/size/name urmate de o valoare ce reprezinta data format normal sau explicit, numarul de biti ( ex: 2300B, 34KB, 5MB) sau un sir de caractere
+-m, --move <path> <dest> <mode> 	       Muta fisierele din <path> in <dest> in mod local/cloud
+-r, --rename <path> <mode> <val>         Redenumeste fisierele din <path> avand modurile old/size urmate de o valoare ce reprezinta o data in format normal sau explicit sau o dimensiune ( ex: 2300B, 34KB, 5MB)
+-e, --edit <path> <mode>                 Editeaza fisierele din <path> in modul phone/mail adaugang prefixul [PHONE]/[MAIL] inaintea liniilor care contin un astfel de sir de caractere
+-c, --compress <path> <data>             Comprima fisierele din <path> mai vechi de <data> in format normal sau explicit
+-s, --sorts <path>                       Sorteaza in directoare separate fisierele din <path> in functie de extensia acestora
+-g, --generate <path> <zile>             Genereaza un raport asupra fisierelor din <path> create/modificate in urma cu mai putin de x zile
+-b, --backup <path>                      Creaza o copie de siguranta pentru fisierele din <path>
+-t, --trash <path> <zile>                Sterge periodic in fundal fisierele din <path> mai vechi de x zile
+-x, --xlist <path> <word>                Muta in xlist fisierele din <path> care contin cuvantul interzis <word> si le marcheaza printr-o extensie .xlisted
+--debug                                  Schimba valoarea de bug on/of
